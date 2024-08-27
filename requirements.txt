@@ -1,0 +1,9 @@
+streamlit
+requests
+pydub
+google-generativeai
+langchain
+multiprocessing
+numpy
+langchain_google_genai
+tqdm
